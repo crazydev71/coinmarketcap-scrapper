@@ -1,0 +1,24 @@
+{
+  "name": "crypto-history",
+  "version": "1.0.0",
+  "description": "History of cryptocurrencies and their prices, asset size etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrexis/crypto-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrexis/crypto-history/issues"
+  },
+  "homepage": "https://github.com/atrexis/crypto-history#readme",
+  "dependencies": {
+    "crawler": "^1.1.1",
+    "json2csv": "^3.11.5",
+    "moment": "^2.19.3"
+  }
+}
