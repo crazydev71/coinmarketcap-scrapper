@@ -6,9 +6,10 @@ History of cryptocurrencies and their prices, asset size etc
 
 ### Clone the repository 
 ```git clone https://github.com/atrexis/crypto-history.git```
-
-### Go into project directory
 ```cd crypto-history```
+
+### Install packages
+```npm install```
 
 # Run scrapper
 ```npm run start```
